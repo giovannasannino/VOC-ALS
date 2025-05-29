@@ -12,11 +12,10 @@ Here we share the Python script used to extract the multiple acoustic features. 
 
 VOC-ALS is a project with a multidisciplinary Team (in alphabetical order):
 - Ivanoe De Falco	 (Computer Scientist)	ICAR-CNR
-- Giuseppe De Pietro (Computer Scientist)	UniPegaso
 - Raffaele Dubbioso	(Neurologist)	University of Naples “Federico II”
 - Valentina Virginia Iuzzolino (Neurology Resident)	University of Naples “Federico II”
 - Elena Salvatore	(Neurologist)	University of Naples “Federico II”
-- Giovanna Sannino (Computer Scientist) ICAR-CNR		
+- Giovanna Sannino (Computer Scientist and Team Leader) ICAR-CNR		
 - Gianmaria Senerchia	(Neurologist)	University of Naples “Federico II”
 - Myriam Spisto	(Psychologist) University of Campania “Luigi Vanvitelli”
 - Laura Verde	(Biomedical Engineer) University of Campania “Luigi Vanvitelli”
